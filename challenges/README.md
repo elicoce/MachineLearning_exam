@@ -2,7 +2,7 @@
 This folder contains the 4 challenges assigned in the *Introduction to Machine Learning* course. 
 Each challenge focuses on different core concepts of machine learning, and serves as preparatory work for the final exam project.
 
-Each challenge includes its own notebook with code and a brief report of its contents.
+Each challenge, except the first one, includes its own notebook with code and a brief report of its contents.
 ## Overview
 
 | Challenge     | Main Topics                                                                 |
